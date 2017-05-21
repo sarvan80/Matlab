@@ -1,4 +1,4 @@
-%Account Manager 20May
+%Account Manager
 classdef AccountManager
   
     methods (Static)
@@ -21,4 +21,4 @@ classdef AccountManager
       end
 end
 
-% Change date 20may
+% Change
