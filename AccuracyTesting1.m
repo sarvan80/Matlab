@@ -1,8 +1,10 @@
+%Change Testing
 datafinal2 = horzcat(data, cvind)
 labels2t=labels.'
 labels2final=horzcat(labels2t, cvind)
 % Cross validat
 for j=1:57
+% Test
     
         for i=1:10
             MV = ( datafinal2(:,58)~=i);
